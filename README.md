@@ -1,4 +1,4 @@
 Hello-World
 ===========
-#Git Tutrial
+#This is Git Tutrial 
 This is a sample repo.
